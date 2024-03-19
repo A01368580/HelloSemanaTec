@@ -15,7 +15,7 @@ Repositorio para la Semana Tec
 3. Más Salsa
 4. Melany's
 
-# 4. Lista sin orden de Tacos favoritos
+## 4. Lista sin orden de Tacos favoritos
 - Tacos de trompo
 - Tacos sudados
 - Gringas
