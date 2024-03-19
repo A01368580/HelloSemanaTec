@@ -3,7 +3,6 @@
 ## ITC, 6to
 ## *Monterrey, NL*
 ### Equipo - Rayados 
-Repositorio para la Semana Tec 
 
 ## 2. Tipos de letra
 *Italic*
