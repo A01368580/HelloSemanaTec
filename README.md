@@ -79,3 +79,8 @@ def triangle(start, end):
 | ----------- | ----------- |
 | TC3004B | Planeación de Software |
 | Continuación de TC3004B | Desarrollo de Software |
+
+## 10. Task List 
+- [x] Comer tacos Alfaro
+- [ ] Comer tacos Villa de Santiago
+- [x] Comer Atarantados
