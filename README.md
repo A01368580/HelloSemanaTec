@@ -84,3 +84,5 @@ def triangle(start, end):
 - [x] Comer tacos Alfaro
 - [ ] Comer tacos Villa de Santiago
 - [x] Comer Atarantados
+- [x] Comer tacos en Más Salsa
+- [ ] Ir al cerro de la silla
